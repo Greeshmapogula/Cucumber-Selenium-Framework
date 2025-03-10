@@ -1,0 +1,4 @@
+utilities\ScreenshotHelper.class
+pages\LoginPage.class
+utilities\ConfigReader.class
+utilities\WaitHelper.class
